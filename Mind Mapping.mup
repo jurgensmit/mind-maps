@@ -1,0 +1,37 @@
+{
+  "title": "Mind Mapping",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "Structure Information",
+      "id": 2
+    },
+    "-1": {
+      "title": "Tools",
+      "id": 3,
+      "ideas": {
+        "1": {
+          "title": "MindMup",
+          "id": 8,
+          "ideas": {
+            "1": {
+              "title": "https://www.mindmup.com",
+              "id": 9
+            }
+          }
+        },
+        "2": {
+          "title": "XMind",
+          "id": 11,
+          "ideas": {
+            "1": {
+              "title": "http://www.xmind.net/",
+              "id": 12
+            }
+          }
+        }
+      }
+    }
+  }
+}
